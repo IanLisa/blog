@@ -1,0 +1,9 @@
+list of papers based on some of the work Geoffrey Hinton that he mentioned in his interview
+https://dr-darryl-wright.github.io/reading/list/2018/08/22/geoffrey-hinton-interview-reading-list.html
+-->most relevant to this course are those papers that focus on applications.
+I would start with the Dropout paper (Srivastava et al. (2014)), after learning about backpropagation I think it is a great paper 
+to take a look at. It has a discussion on backprop, shows examples of structuring machine learning experiments and the main 
+point of the paper is addressing variance in machine learning models which is a major topic in the next course of this 
+specialisation.
+After that I would consider looking at Phone Recognition using Restricted Boltzmann Machines (Mohamed and Hinton (2010)). 
+It provides a description of RBMs and provides another example of setting up machine learning experiments.
